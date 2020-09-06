@@ -12,7 +12,9 @@ bash ~/Downloads/Anaconda3-2020.07-Linux-x86_64.sh &&
 
 #install jupyter-notebook
 
-conda install -c conda-forge jupyterlab && echo done
+conda install -c conda-forge jupyterlab &&
+
+ echo done
 
 
 
