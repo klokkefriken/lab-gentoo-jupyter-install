@@ -1,7 +1,7 @@
 # lab-gentoo-jupyter-install
 This script is designed for gentoo
 
- eNB edit script for newer versions
+NB edit script for newer versions
 A data sience lab in one script!
 
 It will install jupyter-notebook and conda.
