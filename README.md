@@ -10,7 +10,7 @@ step 1 download the conda and place it in you downloads
 
 step 2 install the depps
  
-step3 run the scripts
+step 3 run the scripts
 
 sudo emerge x11-libs/libXau x11-libs/libxcb x11-libs/libX11 x11-libs/libXext x11-libs/libXfixes x11-libs/libXrender x11-libs/libXi x11-libs/libXcomposite x11>
 
